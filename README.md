@@ -24,7 +24,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/yourusername/single-linked-list.git
+git clone https://github.com/abdulbaqui17/single-linked-list.git
 Navigate to the project directory.
 
 bash
@@ -58,8 +58,3 @@ for item in l:
     print(item, end=" ")
 Contribution
 Contributions are welcome! If you have ideas for improvements or new features, please create an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Happy coding with your Single Linked List! 🚀
